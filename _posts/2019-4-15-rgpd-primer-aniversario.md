@@ -9,7 +9,7 @@ published: true
 
 El **Reglamento General de Protección de Datos** (RGPD), cumple su primer aniversario. Hace un año, nos estábamos preparando para el **RGPDpocalípsis**. Yo mismo me encontraba divulgando las medidas que los bloggers de **WordPress** teníamos que adoptar, tras varios meses de estudio e investigación.
 
-![RGPD]({{site.baseurl}}/_posts/GDPR.jpg)
+![RGPD]({{site.baseurl}}/images/GDPR.jpg)
 
 En este post se recopilan casi todo el material publicado en **Blogpocket** por si eres un rezagado o alguien que necesita adaptar su blog al **RGPD**. Para un blogger sin propósito comercial en su blog, ni ánimo de lucro, que solo captura datos personales no críticos (email y nombre), es más cuestión de reputación y transmitir confianza que otra cosa. Es preciso recordar que la ley obliga a adaptar al RGPD cualquier sitio web por básico que este sea (blog), solo por el hecho de capturar dichos datos personales o cargar cookies de estadística. 
 
