@@ -1,5 +1,10 @@
 ---
-published: true
+layout: post
+title: Primer aniversario del RGPD: recopilación de material publicado en Blogpocket
+image: /images/
+author: Antonio C.
+categories: ideas
+published: true 
 ---
 ## Primer aniversario del RGPD: recopilación de material publicado en Blogpocket
 
