@@ -34,6 +34,10 @@ Checklist PDF para cumplir RGPD en un blog:
 
 [https://www.dropbox.com/s/f3sap7m1cxtm5y6/CHECKLIST-BLOG-RGPD.pdf?dl=0](https://www.dropbox.com/s/f3sap7m1cxtm5y6/CHECKLIST-BLOG-RGPD.pdf?dl=0)
 
+Guía rápida RGPD (PDF)
+
+[https://www.dropbox.com/s/37cte6mtfl99zf4/GUIA-RAPIDA-RGPD.pdf?dl=0](https://www.dropbox.com/s/37cte6mtfl99zf4/GUIA-RAPIDA-RGPD.pdf?dl=0)
+
 Hilo de Twitter publicado en @blogpocket:
 
 - [Cómo he adaptado mi blog al RGPD](https://twitter.com/i/moments/982309360364761088)
