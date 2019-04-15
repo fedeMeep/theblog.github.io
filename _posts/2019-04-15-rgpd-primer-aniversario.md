@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Primer aniversario del RGPD: recopilación de material publicado en Blogpocket
 
