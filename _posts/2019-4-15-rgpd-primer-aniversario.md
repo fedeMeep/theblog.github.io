@@ -30,6 +30,10 @@ Recursos publicados en Blogpocket:
 - [Cómo configurar tu cuenta de Google Analytics para cumplir el RGPD](https://www.blogpocket.com/2018/05/19/google-analytics-rgpd/)
 - [RGPD y Google Fonts: cómo proteger la privacidad de tus visitas si usas las fuentes de Google](https://www.blogpocket.com/2018/05/22/rgpd-google-fonts/)
 
+Checklist PDF para cumplir RGPD en un blog:
+
+[https://www.dropbox.com/s/f3sap7m1cxtm5y6/CHECKLIST-BLOG-RGPD.pdf?dl=0](https://www.dropbox.com/s/f3sap7m1cxtm5y6/CHECKLIST-BLOG-RGPD.pdf?dl=0)
+
 Hilo de Twitter publicado en @blogpocket:
 
 - [Cómo he adaptado mi blog al RGPD](https://twitter.com/i/moments/982309360364761088)
