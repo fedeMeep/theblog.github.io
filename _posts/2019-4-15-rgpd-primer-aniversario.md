@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primer aniversario del RGPD: recopilación de material publicado en Blogpocket
+title: Primer aniversario del RGPD, recopilación de material publicado en Blogpocket
 image: /images/GDPR.jpg
 author: Antonio C.
 categories: blogpocket
