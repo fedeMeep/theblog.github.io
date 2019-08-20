@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+image: null
+author: Antonio C.
+categories: ideas
 ---
 ## El editor Prose
 
