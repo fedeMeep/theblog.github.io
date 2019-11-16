@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+image: /images/64-contenido.jpg
+author: Antonio C.
+categories: blogpocket
 ---
 ## Cómo hacer 64 piezas de contenido en un día
 
@@ -37,5 +41,3 @@ A continuación 11 trucos extraídos de este estupendo contenido.
 11. Agregatsus dos centavos a las noticias de tendencias en tu campo (pág. 196)
 
 ¡Maravilloso!
-
-
