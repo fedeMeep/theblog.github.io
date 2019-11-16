@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-image: /images/64-contenido.jpg
+image: /_posts/64-contenido.jpg
 author: Antonio C.
 categories: blogpocket
 ---
