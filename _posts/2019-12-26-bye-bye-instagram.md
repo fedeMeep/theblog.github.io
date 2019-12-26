@@ -12,7 +12,9 @@ Mario Benedetti dijo que hay que evitar tres figuras geométricas: los círculos
 
 Mente cuadrada. Así sentía yo que se me modelaba el cerebro intentndo usar Instagram para promover mis contenidos y mi trabajo en Blogpocket. 
 
-En septiembre de 2019 lancé @blogpocketweb, con objeto de divulgar el proyecto Blogpocket en Instagram. Empecé como todos los expertos aconsejan pero poco o nada funcionó. Probablemente no lo hice bien. Pero me cansé. Mucho esfuerzo para luchar contra un algoritmo que no favorece el aprendizaje tranquilo y sosegado. Más bien parece que Instagram es al marketing digital, como el cubismo a la pintura. El cubismo es arte, sin ninguna duda y no dudo de que Instagram funcione en muchos casos y bien implementado, como herramienta de marketing digital. Sin embargo, hay algo de arte abstracto en ese amasijo de publicaciones, sliders, stickers, gifs, stories, vídeos de IGTV, etc. etc. Si ni siquiera puedes poner un link de forma clara.
+En septiembre de 2019 lancé @blogpocketweb, con objeto de divulgar el proyecto Blogpocket en Instagram. Empecé como todos los expertos aconsejan pero poco o nada funcionó. Probablemente no lo hice bien. Pero me cansé. Mucho esfuerzo para luchar contra un algoritmo que no favorece el aprendizaje tranquilo y sosegado.
+
+Más bien parece que Instagram es al marketing digital, como el cubismo a la pintura. El cubismo es arte, sin ninguna duda y no dudo de que Instagram funcione en muchos casos y bien implementado, como herramienta de marketing digital. Sin embargo, hay algo de arte abstracto en ese amasijo de publicaciones, sliders, stickers, gifs, stories, vídeos de IGTV, etc. etc. Si ni siquiera puedes poner un link de forma clara.
 
 Todo el mundo malgastando el tiempo que podría utilizar en confeccionar un buen blog, un buen canal de YouTube o un maravillos podcast.
 
