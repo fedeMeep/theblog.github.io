@@ -10,7 +10,7 @@ Mario Benedetti dijo que hay que evitar tres figuras geométricas: los círculos
 ![puerta-del-sol.jpg]({{site.baseurl}}/images/puerta-del-sol.jpg)
 
 
-Mente cuadrada. Así sentía yo que se me modelaba el cerebro intentndo usar Instagram para promover mis contenidos y mi trabajo en Blogpocket. 
+Mente cuadrada. Así sentía yo que se modelaba mi cerebro intentando usar Instagram para promover mis contenidos y mi trabajo en Blogpocket. 
 
 En septiembre de 2019 lancé @blogpocketweb, con objeto de divulgar el proyecto Blogpocket en Instagram. Empecé como todos los expertos aconsejan pero poco o nada funcionó. Probablemente no lo hice bien. Pero me cansé. Mucho esfuerzo para luchar contra un algoritmo que no favorece el aprendizaje tranquilo y sosegado.
 
