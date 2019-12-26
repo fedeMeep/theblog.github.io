@@ -7,7 +7,7 @@ categories: blogpocket
 ---
 Mario Benedetti dijo que hay que evitar tres figuras geométricas: los círculos viciosos, los triángulos amorosos y las mentes cuadradas. 
 
-![puerta-del-sol.jpg]({{site.baseurl}}/_posts/images/puerta-del-sol.jpg)
+![puerta-del-sol.jpg]({{site.baseurl}}/images/puerta-del-sol.jpg)
 
 
 Mente cuadrada. Así sentía yo que se me modelaba el cerebro intentndo usar Instagram para promover mis contenidos y mi trabajo en Blogpocket. 
