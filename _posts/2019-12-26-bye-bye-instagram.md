@@ -3,7 +3,7 @@ published: true
 layout: post
 image: /images/puerta-del-sol.jpg
 author: Antonio C.
-categories: blogpocket
+categories: proyectos
 ---
 Mario Benedetti dijo que hay que evitar tres figuras geométricas: los círculos viciosos, los triángulos amorosos y las mentes cuadradas. 
 
