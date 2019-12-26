@@ -18,6 +18,6 @@ Más bien parece que Instagram es al marketing digital, lo que el cubismo es a l
 
 Todo el mundo malgastando el tiempo que se podría utilizar en confeccionar un buen blog, un buen canal de YouTube o un maravillos podcast. O, si me apuras, un buen perfil de Twitter.
 
-Phil Gonzalez (@philgonzalez), promotor de la red social de fotografía que era en los primeros tiempos, dijo en **[Noches de Blogging](https://www.nochesdeblogging.com)** que Instagram era la TV social actual. Pero, lo siento, creo que Instagram aplicada al marketing digital se ha convertido en la "caja tonta" de hoy.
+Phil Gonzalez (@philgonzalez), promotor de la red social de fotografía que era en los primeros tiempos, dijo en **[Noches de Blogging](https://www.nochesdeblogging.com)** que Instagram era la TV social actual. Pero, lo siento, creo que Instagram aplicada al marketing digital se ha convertido, más bien, en la "caja tonta" de hoy.
 
 Con tu permiso, vuelvo al Instagram de fotografía, sin esperar seguidores y likes vacíos. Donde puedo compartir mis momentos más personales, sin prisas, ni agobios. Como el que abre este post con el que certifico mi adiós al Instagram marquetiniano y el hola al Instagram de las fotos y los filtros. 
